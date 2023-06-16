@@ -8,11 +8,3 @@ This repository contains all of my video editing tools that I make and edit. It 
 ## Huggingface Spaces
 - [ ] coming soon!
 - [ ] .
-
-## Webapps
-- [ ] coming soon!
-- [ ] .
-
-## Docker Containers
-- [ ] coming soon!
-- [ ] .  
