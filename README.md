@@ -1,4 +1,4 @@
-# Subsciber Tools - Picture Audio Video
+# Subsciber Tools
 This repository contains all of my video editing tools that I make and edit. It includes a section for links to my Colab notebooks and Huggingface spaces.
 
 ## Colab Notebooks
