@@ -1,5 +1,5 @@
-# Subsciber Tools
-This repository contains all of my video editing tools that I make and edit. It includes a section for links to my Colab notebooks and Huggingface spaces.
+# Patron Tools
+<img src="images/linktree-img.png" width="400" height="400">
 
 ## Colab Notebooks
 > - [✅] **AI QR Code maker** <a href="https://colab.research.google.com/github/nbiish/subscriber_tools/blob/main/colabs/AI_QR.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
